@@ -71,6 +71,56 @@ Every question on the official U.S. naturalization civics test, all 128 of the 2
 
 🔗 [citizen-ready-rust.vercel.app](https://citizen-ready-rust.vercel.app)
 
+### 📊 [Muster](https://apps.apple.com/us/app/muster-technical-consensus/id6808520507): Fifty strategies, weighted by what worked
+Runs about fifty classic technical-analysis strategies on an asset and has each one vote. Every vote is weighted by how that strategy did against buy-and-hold on that asset and horizon, and a strategy that lost to holding doesn't vote at all.
+- Swing, Position and Long Term readings from the same daily data
+- Disagreement between horizons shown, not averaged away
+- Says so when fewer than five strategies qualify
+- No charts and no prices, only vote counts
+
+🔗 [muster-site-lac.vercel.app](https://muster-site-lac.vercel.app)
+
+### 🦄 [Series Z](https://apps.apple.com/us/app/series-z-idle-startup-tycoon/id6825098187): Raise every round, then pop the bubble
+An idle game about an AI startup that never needs a product. You start bootstrapped with one Vibe Coder and three users (you, your mom and a bot), raise from Pre-seed all the way to Series Z, then go public and watch the bubble take it back.
+- Build and Distribution tracks, whichever lags is your bottleneck
+- AI agents that run each activity on their own, and sometimes hallucinate
+- Home Screen and Lock Screen widgets
+- 40 achievements, no ads, no subscription
+
+🔗 [series-z-idle-game.netlify.app](https://series-z-idle-game.netlify.app)
+
+### 🎞️ [Idle Studio](https://apps.apple.com/us/app/idle-studio-photo-tycoon/id6822645588): From passport photos to a gallery show in Paris
+An idle tycoon game about running a photography studio, made by a working photographer. Every station is a polaroid on the line, and each shoot develops until it pays.
+- 12 kinds of shoots, from passport photos to astrophotography
+- Golden Hour doubles income at your real local sunrise and sunset
+- Studios in 14 cities, from São Paulo to Tokyo
+- Managers keep shooting while the app is closed, no ads
+
+🔗 [idle-studio-photo.netlify.app](https://idle-studio-photo.netlify.app)
+
+### 🛰️ [Redshift](https://apps.apple.com/us/app/redshift-idle-space-rpg/id6823081263): Every report comes home late
+A text-based idle RPG. You command uncrewed probes across a galaxy generated from your own seed. Travel takes real time and results come back at the speed of light, so the farther the star, the longer you wait to read what happened.
+- 120 star systems in six rings, a different map for every player
+- Missions from 4 minutes in the inner ring to many hours at the edge
+- Eight upgradeable modules and up to three probes
+- One purchase unlocks everything, no ads, no account, plays offline
+
+🔗 [redshift-idle-game.netlify.app](https://redshift-idle-game.netlify.app)
+
+---
+
+## 🌐 Live on the web
+
+- **[Plinth](https://www.ontheplinth.com)**: a directory of indie iOS apps. One app a week, picked by me with a written reason. No votes, no pay-to-rank.
+- **[Overhang](https://overhang.report)**: quarterly research on commercial real estate credit exposure across 218 Northeast counties, built from bank call reports.
+- **[EstateHawk](https://estatehawk.vercel.app)**: every Broward County property flagged as an estate in the county's tax roll, as a weekly list with the decision-maker's mailing address and CSV export.
+- **[ArremataBR](https://arremata-br-web.vercel.app)**: reads Caixa's repossessed-property auctions in Brazil and flags the ones that aren't worth it, with the real discount, the total cost until the deed is yours, and occupancy quoted from the auction notice.
+- **[Visa Explained](https://visa-explained.netlify.app)**: pick your U.S. immigration situation and see every step, form and fee in plain language, from official USCIS sources. Free, no sign-up, in English, Spanish, Chinese and Portuguese.
+- **[The 88 Books](https://the-88-books.netlify.app)**: the full Ethiopian Bible canon, including Enoch, Jubilees and Meqabyan, with plain notes on every chapter. In English and Portuguese.
+- **[Real or AI?](https://real-or-ai-daily.netlify.app)**: a daily game. Five photos, some real and some AI-generated, and you spot the fakes.
+- **[36 Frames Manhattan](https://legendary-cassata-2547cb.netlify.app)**: a 24-mile walk from Inwood to the Battery with 36 photo stops, live GPS, automatic check-ins and a share card at the end.
+- **[Rug Check](https://rug-check.netlify.app)**: paste a Solana token contract and get OK or NO in under a minute, across eight checks. In Portuguese.
+
 ---
 
 ## 🛠️ Stack
@@ -93,11 +143,19 @@ Every question on the official U.S. naturalization civics test, all 128 of the 2
 | Aug 2026 | Assignment ships |
 | Aug 2026 | Mileage ships |
 | Aug 2026 | CitizenReady ships |
+| Sep 2026 | Muster ships |
+| Oct 2026 | Series Z ships |
+| Oct 2026 | Idle Studio ships |
+| Nov 2026 | Redshift ships |
 
 ## 📸 Photography
 
 Commercial and wedding photography under **Pevide Studio** and **Pevide Photography**.
-Portfolio: [pevidestudio.com](https://www.pevidestudio.com)
+Portfolio: [pevidestudio.com](https://www.pevidestudio.com) · Weddings: [pevidephotography.com](https://pevidephotography.com)
+
+With Michele Pevide:
+- **[Paper Route](https://paper-route-club.netlify.app)**: a fine-art print club by mail. Once a month, members get a photograph on cotton rag, numbered, signed in pencil and sealed in wax with the story behind it.
+- **[48 Frames](https://48frames.netlify.app)**: a 2027 expedition to photograph all 51 national parks of the lower 48, each in its best season, plus one signature frame from every state.
 
 ## 🔗 Links
 
